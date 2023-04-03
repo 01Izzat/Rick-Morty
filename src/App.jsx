@@ -1,4 +1,4 @@
-import { Header } from './components/Header/Header';
+import { Header } from './Components/Header/Header';
 import { Characters } from './pages/Characters/Characters';
 import { CharacterInfo } from './pages/CharacterInfo/CharacterInfo';
 import { Route, Routes } from 'react-router-dom';
